@@ -6,11 +6,16 @@
     align-items: center;
     padding: 2em;
     background-color: $azul-rodape;
+    box-sizing: border-box;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 .rodape div {
     display: flex;
     gap: 2em;
+    align-items: center;
 }
 
 .rodape span {
