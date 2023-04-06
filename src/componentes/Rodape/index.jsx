@@ -8,9 +8,9 @@ export default function Rodape() {
   return (
     <footer className={styles.rodape}>
         <div>
-            <a href="#"><img src={facebook} alt="Logo do Facebook" /></a>
-            <a href="#"><img src={twitter} alt="Logo do Twitter" /></a>
-            <a href="#"><img src={instagram} alt="Logo do Instagram" /></a>
+            <a href="https://facebook.com"><img src={facebook} alt="Logo do Facebook" /></a>
+            <a href="https://twitter.com"><img src={twitter} alt="Logo do Twitter" /></a>
+            <a href="https://instagram.com"><img src={instagram} alt="Logo do Instagram" /></a>
         </div>
         <span>Desenvolvido por Alura</span>
     </footer>
