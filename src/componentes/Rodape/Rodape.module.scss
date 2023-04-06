@@ -1,0 +1,19 @@
+@import '../../styles/variaveis';
+
+.rodape {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2em;
+    background-color: $azul-rodape;
+}
+
+.rodape div {
+    display: flex;
+    gap: 2em;
+}
+
+.rodape span {
+    font-family: $fonte-normal;
+    color: $cor-do-texto;
+}
