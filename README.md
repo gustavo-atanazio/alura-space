@@ -8,7 +8,7 @@ O Alura Space é uma galeria estática de fotos, possibilitando aos usuários ap
 
 ### Ferramentas usadas
 
-A aplicação foi desenvolvida integralmente em React, famosa biblioteca JavaScript, com estilos aplicados por meio do Scss.
+A aplicação foi desenvolvida integralmente em React, famosa biblioteca JavaScript, com estilos aplicados por meio do SCSS.
 
 ## Em breve
 
